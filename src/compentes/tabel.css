@@ -1,0 +1,22 @@
+.tabel-data{
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.border,td,th{
+    /* border: 1px solid rgb(30, 28, 28); */
+    /* border-collapse:collapse ; */
+    padding: 0 20px;
+    /* margin: 2px 20px; */
+}
+.t-head{
+    background:rgba(111,222,123,0.2);
+}
+.border{
+    margin: 20px 0;
+    background-color: burlywood;
+}
+td{
+    padding: 10px 40px;
+}
